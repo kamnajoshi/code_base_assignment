@@ -19,6 +19,12 @@ Navigate to the user details page
 
 Implemented using Clean Architecture
 
+Implemented Pagenation 
+
+Implemnted pull refresh feature 
+
+Added Search users functionality
+
 
 Steps to use this
 - Take clone of repository.
@@ -34,6 +40,10 @@ Below are the screenshots attached of the app
   <tr>
     <td><img src="https://github.com/user-attachments/assets/df9d9ffa-7607-430d-bd2c-f1f9dcf46969" width=270 height=560></td>
     <td><img src="https://github.com/user-attachments/assets/08755373-071b-4c3f-9cf2-1bab6cff67c1" width=270 height=560></td>
+    
+https://github.com/user-attachments/assets/6ead1115-bd45-41d4-ac01-aea929b534ad
+
+
 
   </tr>
  </table>
