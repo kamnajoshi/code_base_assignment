@@ -30,11 +30,7 @@ Steps to use this
 Below are the screenshots attached of the app
 
 <table>
-  <tr>
-   
-     <td>User List screen</td>
-     <td>User Detail Screen</td>
-  </tr>
+
   <tr>
     <td><img src="https://github.com/user-attachments/assets/df9d9ffa-7607-430d-bd2c-f1f9dcf46969" width=270 height=560></td>
     <td><img src="https://github.com/user-attachments/assets/08755373-071b-4c3f-9cf2-1bab6cff67c1" width=270 height=560></td>
@@ -43,9 +39,5 @@ Below are the screenshots attached of the app
  </table>
 
  <table>
-  <tr>
-    <td>Filter Screen</td>
-     <td>Error screen</td>
-  </tr>
  
  </table>
