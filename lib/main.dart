@@ -6,13 +6,9 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:codebase_assignment/utils/themes/theme_data.dart';
 import 'package:codebase_assignment/features/dashboard/presentation/blocs/user_detail_bloc/user_data_bloc.dart';
 import 'package:codebase_assignment/features/dashboard/domain/usecases/get_user_usecase.dart';
-import 'package:hive_flutter/hive_flutter.dart';
 
 void main() async{
-  setupServiceLocator();
-    WidgetsFlutterBinding.ensureInitialized();
-  await Hive.initFlutter();
-  
+  serviceLocator();
   runApp(const MyApp());
 }
 

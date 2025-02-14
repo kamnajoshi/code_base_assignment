@@ -8,7 +8,7 @@ import 'package:codebase_assignment/features/dashboard/presentation/blocs/user_d
 
 GetIt sl = GetIt.instance;
 
-void setupServiceLocator() {
+void serviceLocator() {
   sl.registerLazySingleton<Dio>(() => Dio());
 
   sl.registerLazySingleton<UserRepository>(() => UserRepositoryImpl(sl()));
